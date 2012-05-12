@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/94/trunk/src/js/com/teleometry/causeway/purchase_example/workers
+END
+mainBuyer.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/src/js/com/teleometry/causeway/purchase_example/workers/mainBuyer.js
+END
+wwAccounts.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/src/js/com/teleometry/causeway/purchase_example/workers/wwAccounts.js
+END
+wwProduct.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/src/js/com/teleometry/causeway/purchase_example/workers/wwProduct.js
+END
+makeCausewayLogger.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/20/trunk/src/js/com/teleometry/causeway/purchase_example/workers/makeCausewayLogger.js
+END
+asyncAnd.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/src/js/com/teleometry/causeway/purchase_example/workers/asyncAnd.js
+END
+workersExample.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10/trunk/src/js/com/teleometry/causeway/purchase_example/workers/workersExample.html
+END
